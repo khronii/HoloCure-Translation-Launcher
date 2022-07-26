@@ -1,0 +1,1 @@
+# HoloCure-Translation-Launcher
