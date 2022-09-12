@@ -1,11 +1,11 @@
 
 
-=== git에 포함된 외부 리소스 ===
+## git에 포함된 외부 리소스
 
  * [로고 한글화](https://twitter.com/rito__321/status/1544307080567214080)
  * [deploy.sh](https://sourceforge.net/p/msys2/tickets/34/#1cb7)
 
-=== 패키지에 포함된 외부 리소스 ===
+## 패키지에 포함된 외부 리소스
 
  * [unzip](https://gnuwin32.sourceforge.net/packages/unzip.htm)
  * mingw-w64-x86_64-atk
